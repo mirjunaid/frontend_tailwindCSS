@@ -1,0 +1,16 @@
+body {
+    margin: 4rem;
+}
+
+h1 {
+    margin-left: 5rem;
+}
+
+p {
+    margin-left: 5rem;
+}
+
+img{
+    width: 40em;
+    max-width: 90%;
+}
